@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Kuba</h1>
 <h3 align="left">A passionate frontend developer from Poland</h3>
 
+<p>
+
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **html, css, js**
@@ -9,8 +11,6 @@
 
 - ⚡ Fun fact **I like riding a bike**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kliku33&show_icons=true&locale=en&layout=compact" alt="kliku33" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kliku33&show_icons=true&locale=en" alt="kliku33" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kliku33&" alt="kliku33" /></p>
