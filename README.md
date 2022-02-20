@@ -97,7 +97,6 @@
 	"explorer.confirmDelete": false,
 	"javascript.updateImportsOnFileMove.enabled": "always"
 }
-
 ```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kliku33&show_icons=true&locale=en&layout=compact" alt="kliku33" /></p>
