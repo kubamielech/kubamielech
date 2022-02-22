@@ -1,4 +1,4 @@
-## Hi 👋, I'm Kuba
+### Hi 👋, I'm Kuba
 
 - 💻 A passionate **frontend developer** from Poland
 - 🌱 I’m currently learning **React.js**
