@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kuba
 
-- 💻 A passionate **frontend developer** from Poland
+- 💻 A young **frontend developer** from Poland
 - 🌱 I’m currently learning **React.js**
 - 💬 Ask me about **html, css, js**
 - 📫 How to reach me **kliku#3314**
