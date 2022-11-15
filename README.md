@@ -1,9 +1,15 @@
-# Hi 👋, I'm Kuba
+## Hi 👋,
 
-- 💻 A young **front-end developer** from Poland
+<p>My name is Kacper, and I am a passionate front-end developer from Poland. My programming journey began in 2019, and I am passionate about the frontend from a technical standpoint, as well as artistic projects, an example of which can be found on my website.
+
+Because I am an extroverted person, my soft skills are exceptional. I can talk about specific issues while simultaneously looking for the best method to solve them. I am not afraid of obstacles since they motivate me to grow and learn.
+
+Frontend is not only a future plan for me, but also a love that absorbs most of my time, so I believe that collaboration with me would be highly beneficial because as an enthusiast, I take care of my portfolio and projects that I carry out.</p>
+
+- 💻 A passionate front-end developer from Poland
+- 🏫 4th year of technical school, computer technician
 - 🌱 I’m currently learning **React.js**
-- 💬 Ask me about **html, css, js**
-- 📫 How to reach me **kliku#3314**
+- 💬 Ask me about **HTML, CSS, SASS, JS**
 - ⚡ Fun fact **I like cycling**
 
 ## Languages and Tools
