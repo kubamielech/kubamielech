@@ -10,9 +10,8 @@ Frontend is not only a future plan for me, but also a love that absorbs most of 
 
 - 💻 A passionate front-end developer from Poland
 - 🏫 4th year of technical school, computer technician
-- 🌱 I’m currently learning **React.js**
-- 💬 Ask me about **HTML, CSS, SASS, JS**
-- ⚡ Fun fact **I like cycling**
+- 🌱 I’m currently learning: **React.js**
+- 💬 Ask me about: **HTML, CSS, SASS, JS**
 
 ## Current projects
 - 🔭 I'm currently working on: <a href="#">**my portfolio...**</a></a>
