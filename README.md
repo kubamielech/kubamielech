@@ -1,6 +1,6 @@
 ## Hi 👋,
 
-My name is Kuba, and I am a passionate front-end developer from Poland. My programming journey began in 2019, and I am passionate about the frontend from a technical standpoint, as well as artistic projects.
+My name is Kuba, and I am a passionate front-end developer from Poland. My programming journey began in 2021, and I am passionate about the frontend from a technical standpoint, as well as artistic projects.
 
 Because I am an extroverted person, my soft skills are exceptional. I can talk about specific issues while simultaneously looking for the best method to solve them. I am not afraid of obstacles since they motivate me to grow and learn.
 
