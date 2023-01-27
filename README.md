@@ -6,7 +6,7 @@ My name is Kuba, and I am a passionate front-end developer from Poland. My progr
 
 - 💻 A passionate front-end developer from Poland
 - 🏫 4th year of technical school, computer technician
-- 🌱 I’m currently learning: **React.js**
+- 🌱 I’m currently learning: **React, Vue**
 - 💬 Ask me about: **HTML, CSS, SASS, JS**
 
 ## Current projects
