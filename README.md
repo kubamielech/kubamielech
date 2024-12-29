@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kuba</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+# Hi 👋, I'm Kuba
+A passionate frontend developer from Poland
 
 # 💫 About Me:
 🔭 I’m currently working on Portfolio<br>
