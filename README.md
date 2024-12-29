@@ -3,9 +3,7 @@ A passionate frontend developer from Poland
 
 ## 💫 About Me:
 🔭 I’m currently working on Portfolio<br>
-🤝 I’m looking for help with nothing 🤡<br>
 🌱 I’m currently learning programming<br>
-💬 Ask me about html, css, js<br>
 ⚡ Fun fact I'm passionate cyclist and gym bro
 
 ## 💻 Tech Stack:
