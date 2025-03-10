@@ -2,7 +2,7 @@
 A passionate frontend developer from Poland
 
 ## 💫 About Me:
-🔭 I’m currently studing automation and robotics<br>
+🔭 I’m currently studying automation and robotics<br>
 🌱 I’m currently learning backend/apps/programming<br>
 ⚡ Fun fact I'm also passionate cyclist 🚴🏼
 
